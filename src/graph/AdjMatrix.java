@@ -1,3 +1,4 @@
+package graph;
 //인접행렬로 그래프 구현 
 public class AdjMatrix {	
 	private int matrix[][];
